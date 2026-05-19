@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1779202706 source:c:\users\naluzada\documents\projeto-manipulacao-json\manipulacao-dados-json\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
