@@ -183,9 +183,7 @@ void verificarAluno(){
 
             printf("\n=== ALUNO ENCONTRADO ===\n\n");
 
-            printf("%s", linha);
-
-            for(int i = 0; i < 3; i++){
+            for(int i = 0; i < 4; i++){
 
                 fgets(linha, 200, arquivo);
 
